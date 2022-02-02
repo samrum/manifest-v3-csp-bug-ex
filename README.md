@@ -2,6 +2,8 @@
 
 An example of CSP not being used with a Manifest V3 web extension
 
+Opened chromium issue: https://bugs.chromium.org/p/chromium/issues/detail?id=1290188
+
 ## About
 
 ### What steps will reproduce the problem?
